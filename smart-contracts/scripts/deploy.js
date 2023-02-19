@@ -19,7 +19,7 @@ async function main() {
 
   await solarzu.deployed();
 
-  console.log("Greeter deployed to:", solarzu.address);
+  console.log("Solarzu deployed to:", solarzu.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
